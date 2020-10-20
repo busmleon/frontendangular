@@ -4,10 +4,10 @@
 
 export const environment = {
   production: false,
-  KEYCLOAK_URL: 'https://admin.dnslable.germanywestcentral.cloudapp.azure.com/auth',
-  KEYCLOAK_REALM: 'Test_Realm',
-  KEYCLOAK_CLIENT: 'Test_Client',
-  BACKEND_URL: 'https://backend.dnslable.germanywestcentral.cloudapp.azure.com/db'
+  KEYCLOAK_URL: 'https://admin.busmleon.de/auth',
+  KEYCLOAK_REALM: 'APP_REALM',
+  KEYCLOAK_CLIENT: 'FrontendClient',
+  BACKEND_URL: 'https://backend.busmleon.de/db'
 };
 
 /*
